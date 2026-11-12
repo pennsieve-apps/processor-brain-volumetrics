@@ -14,6 +14,7 @@ application:
   type: processor
   tags:
     - neuroimaging
+    - neurology
     - mri
     - nifti
     - report
